@@ -1,0 +1,10 @@
+<؟  
+    // تنظیمات پایگاه داده  
+    ثابت DB_HOST = 'localhost';  
+    ثابت DB_NAME = 'psw_db';  
+    ثابت DB_USER = 'root';  
+    ثابت DB_PASS = '';  
+
+    // حالت توسعه  
+    ثابت DEV_MODE = درست;  
+؟>  
