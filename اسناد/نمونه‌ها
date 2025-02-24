@@ -1,0 +1,13 @@
+
+---
+
+### **نحوه انتشار در گیت‌هاب:**
+
+۱. یک ریپازیتوری جدید در گیت‌هاب ایجاد کنید.  
+۲. پروژه را به ریپازیتوری اضافه کنید:  
+   ```bash  
+   git init  
+   git add .  
+   git commit -m "اولین نسخه پروژه PSW"  
+   git remote add origin https://github.com/your-username/psw-project.git  
+   git push -u origin main  
