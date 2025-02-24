@@ -1,0 +1,4 @@
+RewriteEngine On  
+RewriteCond %{REQUEST_FILENAME} !-f  
+RewriteCond %{REQUEST_FILENAME} !-d  
+RewriteRule ^(.*)$ سیستم/مفسر.php?فایل=عمومی/$1.psw [L,QSA]  
